@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 10566815749f10344900a7ffa5861f2c
+timeCreated: 1512469379
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Perfograma
+  fontNames:
+  - Perfograma
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
